@@ -122,3 +122,28 @@ body {
 .akreditasi {
     margin-top: 80px;
 }
+
+.dropdown-menu li:hover a{
+    background-color: rgb(0, 54, 21);
+    color: aliceblue;
+}
+
+.dropdown-item.active {
+    background-color: rgb(0, 54, 21);
+}
+
+.btn-next {
+    background-color: rgb(0, 54, 21);
+    color: aliceblue;
+}
+
+
+.tombol :hover a{
+    background-color: rgb(1, 117, 46);
+    color: aliceblue;
+}
+
+.tombol:hover .btn {
+    background-color: rgb(1, 117, 46);
+    color: aliceblue;
+}

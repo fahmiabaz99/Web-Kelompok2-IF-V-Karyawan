@@ -37,11 +37,11 @@
                                 Profil
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="tentang.html">Tentang</a></li>
+                                <li><a class="dropdown-item" href="tentang">Tentang</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item" href="status.html">Statuta STTC</a></li>
+                                <li><a class="dropdown-item" href="status">Statuta STTC</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
@@ -69,14 +69,14 @@
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item" href="akreditasi.html">Akreditasi</a></li>
+                                <li><a class="dropdown-item" href="akreditasi">Akreditasi</a></li>
                                 <li>
                             </ul>
                         </li>
                     </div>
                     <div class="kolom">
                         <li class="nav-item mx-2">
-                            <a class="nav-link" href="#">Fasilitas</a>
+                            <a class="nav-link" href="fasilitas">Fasilitas</a>
                         </li>
                     </div>
                     <div class="kolom">

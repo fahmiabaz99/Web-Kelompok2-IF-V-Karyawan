@@ -6,8 +6,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/profile', function () {
-    return view('profile');
+Route::get('/tentang', function () {
+    return view('tentang');
 });
 
 Route::get('/blog', function () {
@@ -20,4 +20,16 @@ Route::get('/blog2', function () {
 
 Route::get('/blog3', function () {
     return view('blog3');
+});
+
+Route::get('/fasilitas', function () {
+    return view('fasilitas');
+});
+
+Route::get('/akreditasi', function () {
+    return view('akreditasi');
+});
+
+Route::get('/status', function () {
+    return view('status');
 });
